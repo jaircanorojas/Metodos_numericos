@@ -24,7 +24,7 @@ Existen tres tipos principales de errores:
 * [Cálculo de Errores Base](./ejercicios_tema1.py)
 
 ### Ejemplos Prácticos
-A continuación se presentan los ejercicios desarrollados para este tema, los cuales puedes encontrar en la carpeta de ejercicios:
+A continuación se presentan los ejercicios desarrollados para este tema:
 
 * [Ejemplo 1: Error de Redondeo](./1_Error_Redondeo.py)
 * [Ejemplo 2: Error de Truncamiento](./2_Error_Truncamiento.py)
