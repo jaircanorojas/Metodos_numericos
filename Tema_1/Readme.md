@@ -26,10 +26,9 @@ Existen tres tipos principales de errores:
 ### Ejemplos Prácticos
 A continuación se presentan los ejercicios desarrollados para este tema, los cuales puedes encontrar en la carpeta de ejercicios:
 
-* [Ejemplo 1: Error de Redondeo](./ejercicios_tema1.py)
-* [Ejemplo 2: Error de Truncamiento (Serie de Taylor)](./ejercicios_tema1.py)
-* [Ejemplo 3: Precisión de Máquina (Épsilon)](./ejercicios_tema1.py)
-* [Ejemplo 4: Error en Operaciones Aritméticas](./ejercicios_tema1.py)
-* [Ejemplo 5: Conversión de decimal a binario](./ejercicios_tema1.py)
-
+* [Ejemplo 1: Error de Redondeo](./1_Error_Redondeo.py)
+* [Ejemplo 2: Error de Truncamiento](./2_Error_Truncamiento.py)
+* [Ejemplo 3: Precisión de Máquina](./3_Precision_Maquina.py)
+* [Ejemplo 4: Error en Operaciones Aritméticas](./4_Error_Aritmetico.py)
+* [Ejemplo 5: Conversión de decimal a binario](./5_Decimal_Binario.py)
 
