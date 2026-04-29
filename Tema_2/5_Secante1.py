@@ -1,0 +1,23 @@
+import math
+
+# Ejercicio 1: Secante para x^2 - 4 = 0
+f = lambda x: x**2 - 4
+x0, x1 = 1.0, 3.0  # Dos puntos iniciales
+tol = 0.0001
+
+print("--- Método de la Secante: Ejercicio 1 ---")
+for i in range(100):
+    # Evitar división por cero
+    denominador = f(x1) - f(x0)
+    if denominador == 0:
+        break
+        
+    # Fórmula de la Secante
+    x_nuevo = x1 - f(x1) * (x1 - x0) / denominador
+    
+    if abs(x_nuevo - x1) < tol:
+        break
+    
+    x0, x1 = x1, x_nuevo
+
+print(f"La raíz aproximada es: {x1:.6f}")
