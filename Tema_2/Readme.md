@@ -17,7 +17,7 @@ Es un algoritmo de búsqueda de raíces que divide repetidamente un intervalo a 
 4. **Repetición:** Se itera hasta que el error sea menor a la tolerancia.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bisection_method.svg/640px-Bisection_method.svg.png" width="400" alt="Método de Bisección">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/2876327635591396042_0" width="400" alt="Gráfica del Método de Bisección">
 </p>
 
 ### Implementación
