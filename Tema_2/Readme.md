@@ -43,6 +43,10 @@ A diferencia de la bisección, este método conecta los puntos $f(a)$ y $f(b)$ c
    $$x_r = b - \frac{f(b)(a - b)}{f(a) - f(b)}$$
 3. **Criterio:** Se evalúa el signo para actualizar los límites del intervalo.
 
+<p align="center">
+  <img src="https://arturoguillen90.wordpress.com/wp-content/uploads/2014/06/regla-falsa2.png" width="450" alt="Regla Falsa">
+</p>
+
 ### Implementación
 * [Código Base: Regla Falsa](./2_Regla_Falsa.py)
 
@@ -66,6 +70,10 @@ Transforma $f(x) = 0$ en $x = g(x)$. Se busca el punto donde la curva cruza la l
    $$x_{i+1} = g(x_i)$$
 3. **Convergencia:** El proceso se detiene cuando $|x_{i+1} - x_i| < tol$.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Puntos_fijos.svg" width="400" alt="Punto Fijo">
+</p>
+
 ### Implementación
 * [Código Base: Punto Fijo](./3_Punto_Fijo.py)
 
@@ -87,6 +95,10 @@ Utiliza la pendiente (tangente) de la función en un punto para proyectar la ubi
 1. **Entrada:** Valor inicial $x_i$ y la derivada $f'(x)$.
 2. **Fórmula:** $$x_{i+1} = x_i - \frac{f(x_i)}{f'(x_i)}$$
 3. **Parada:** Detener cuando el error absoluto sea mínimo.
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNncJMnTWaAZmelXQYJuHzBZaTMjz07Ggote2Y3ZV_tPvcZi1B_UokCrzt54noi33oGTogDYLPzdiWQOpcuxAf4LFIDaHf7LjfJwiUu12vaI5NAfAVbkYY9eRKKHBl21WCgsZ0FWG6SVwd/s750/simulacion-de-procesos-metodo-newton-rapshon-explicacion-del-metodo-numerico-newton-raphson.jpg" width="500" alt="Newton-Raphson">
+</p>
 
 ### Implementación
 * [Código Base: Newton-Raphson](./4_Newton_Raphson.py)
@@ -110,6 +122,10 @@ Es una variación de Newton-Raphson que no requiere calcular la derivada. En su 
 2. **Fórmula:**
    $$x_{i+1} = x_1 - \frac{f(x_1)(x_0 - x_1)}{f(x_0) - f(x_1)}$$
 3. **Iteración:** Se actualizan los puntos para la siguiente secante.
+
+<p align="center">
+  <img src="https://www.uv.es/~diaz/mn/secante.gif" width="450" alt="Método de la Secante">
+</p>
 
 ### Implementación
 * [Código Base: Secante](./5_Secante.py)
