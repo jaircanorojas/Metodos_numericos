@@ -16,6 +16,10 @@ Es un algoritmo de búsqueda de raíces que divide repetidamente un intervalo a 
 3. **Validación:** Si $f(a) \cdot f(x_r) < 0$, la raíz está en el lado izquierdo ($b = x_r$). De lo contrario, está en el derecho ($a = x_r$).
 4. **Repetición:** Se itera hasta que el error sea menor a la tolerancia.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bisection_method.svg/640px-Bisection_method.svg.png" width="400" alt="Método de Bisección">
+</p>
+
 ### Implementación
 * [Código Base: Bisección](./1_Biseccion.py)
 
