@@ -6,7 +6,7 @@ En el siguiente video se explica a profundidad la teoría y la implementación d
 
 [![Explicación Tema 4 - Métodos Numéricos](https://img.youtube.com/vi/3b8AVJBg_oI/maxresdefault.jpg)](https://youtu.be/3b8AVJBg_oI)
 
-*Haga clic en la imagen para ver el video en YouTube (8:00 min).*
+*Haga clic en la imagen para ver el video en YouTube.*
 
 ## 1. Métodos de Diferenciación Numérica
 
