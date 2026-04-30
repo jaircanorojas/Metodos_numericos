@@ -2,8 +2,11 @@
 
 Este módulo aborda técnicas para estimar cambios instantáneos (derivadas) y acumulaciones (integrales) cuando las funciones son complejas, costosas de evaluar analíticamente o solo se conocen valores en puntos discretos (tablas de datos).
 
+En el siguiente video se explica a profundidad la teoría y la implementación de los métodos de Diferenciación e Integración Numérica, apoyado por herramientas de IA para facilitar la comprensión de los algoritmos.
+
 [![Explicación Tema 4 - Métodos Numéricos](https://img.youtube.com/vi/3b8AVJBg_oI/maxresdefault.jpg)](https://youtu.be/3b8AVJBg_oI)
----
+
+*Haga clic en la imagen para ver el video en YouTube (8:00 min).*
 
 ## 1. Métodos de Diferenciación Numérica
 
