@@ -19,7 +19,7 @@ Técnicas para resolver sistemas $Ax = B$, fundamentales en la ingeniería estru
 
 ### 🧮 Tema 4: Diferenciación e Integración Numérica
 Cálculo aproximado de derivadas e integrales definidas utilizando discretización de datos.
-* **Algoritmos:** Reglas del Trapecio (Simple y Compuesta), Simpson 1/3, Simpson 3/8 y Diferenciación por Diferencias Finitas.
+* **Algoritmos:** Reglas del Trapecio (Simple y Compuesta), Simpson 1/3, Simpson 3/8 y Diferenciación.
 * 📂 [Explorar ejercicios del Tema 4](./Tema_4/)
 
 > "Los métodos numéricos son la herramienta que convierte la teoría matemática en soluciones del mundo real."
