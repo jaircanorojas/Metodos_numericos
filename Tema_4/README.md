@@ -2,6 +2,7 @@
 
 Este módulo aborda técnicas para estimar cambios instantáneos (derivadas) y acumulaciones (integrales) cuando las funciones son complejas, costosas de evaluar analíticamente o solo se conocen valores en puntos discretos (tablas de datos).
 
+[![Explicación Tema 4 - Métodos Numéricos](https://img.youtube.com/vi/3b8AVJBg_oI/maxresdefault.jpg)](https://youtu.be/3b8AVJBg_oI)
 ---
 
 ## 1. Métodos de Diferenciación Numérica
