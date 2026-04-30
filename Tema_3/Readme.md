@@ -6,9 +6,6 @@ En este tema se estudian los métodos para resolver sistemas de ecuaciones linea
 
 ## 1. Método de Eliminación Gaussiana
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gaussian_elimination_steps.svg/400px-Gaussian_elimination_steps.svg.png" width="400" alt="Pasos de la Eliminación Gaussiana">
-</p>
 
 ### Concepto
 Este método directo consiste en transformar la matriz aumentada del sistema en una matriz triangular superior utilizando operaciones elementales entre filas. Una vez obtenida esta forma, las incógnitas se despejan mediante sustitución hacia atrás.
@@ -32,9 +29,6 @@ Este método directo consiste en transformar la matriz aumentada del sistema en 
 
 ## 2. Método de Gauss-Jordan
 
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNncJMnTWaAZmelXQYJuHzBZaTMjz07Ggote2Y3ZV_tPvcZi1B_UokCrzt54noi33oGTogDYLPzdiWQOpcuxAf4LFIDaHf7LjfJwiUu12vaI5NAfAVbkYY9eRKKHBl21WCgsZ0FWG6SVwd/s750/simulacion-de-procesos-metodo-newton-rapshon-explicacion-del-metodo-numerico-newton-raphson.jpg" width="450" alt="Representación de Gauss-Jordan">
-</p>
 
 ### Concepto
 Es una extensión de la eliminación gaussiana. El objetivo es transformar la matriz de coeficientes directamente en una matriz identidad. De esta manera, el vector resultante de términos independientes se convierte directamente en la solución del sistema.
@@ -58,9 +52,6 @@ Es una extensión de la eliminación gaussiana. El objetivo es transformar la ma
 
 ## 3. Método de Jacobi
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fixed_point_iteration.svg/400px-Fixed_point_iteration.svg.png" width="350" alt="Esquema Iterativo">
-</p>
 
 ### Concepto
 Es un método iterativo donde se despeja cada incógnita $x_i$ de la diagonal de la matriz. En cada iteración, se utilizan exclusivamente los valores obtenidos en la iteración anterior para calcular los nuevos.
@@ -85,9 +76,6 @@ Es un método iterativo donde se despeja cada incógnita $x_i$ de la diagonal de
 
 ## 4. Método de Gauss-Seidel
 
-<p align="center">
-  <img src="https://www.uv.es/~diaz/mn/secante.gif" width="450" alt="Convergencia de Gauss-Seidel">
-</p>
 
 ### Concepto
 Es una mejora del método de Jacobi. La diferencia fundamental radica en que Gauss-Seidel utiliza los valores nuevos de las variables en cuanto están disponibles, sin esperar a la siguiente iteración, lo que acelera significativamente la convergencia.
