@@ -19,11 +19,11 @@ Este método se basa en el uso de **Diferencias Divididas**. Su principal ventaj
 * [Código Base: Diferencias Divididas de Newton](./Newton_Master.py)
 
 ### Ejercicios
-* [Ejercicio 1: Interpolación Lineal y Cuadrática (Newton)](./ejercicios_newton/ejercicio1.py)
-* [Ejercicio 2: Aproximación de funciones logarítmicas](./ejercicios_newton/ejercicio2.py)
-* [Ejercicio 3: Análisis de error según el grado del polinomio](./ejercicios_newton/ejercicio3.py)
-* [Ejercicio 4: Interpolación con 5 puntos de datos complejos](./ejercicios_newton/ejercicio4.py)
-* [Ejercicio 5: Aplicación práctica: Datos de termodinámica](./ejercicios_newton/ejercicio5.py)
+* [Ejercicio 1: Interpolación Lineal y Cuadrática (Newton)](./ejercicio1.py)
+* [Ejercicio 2: Aproximación de funciones logarítmicas](./ejercicio2.py)
+* [Ejercicio 3: Análisis de error según el grado del polinomio](./ejercicio3.py)
+* [Ejercicio 4: Interpolación con 5 puntos de datos complejos](./ejercicio4.py)
+* [Ejercicio 5: Aplicación práctica: Datos de termodinámica](./ejercicio5.py)
 
 ---
 
@@ -42,11 +42,11 @@ A diferencia de Newton, el método de Lagrange evita el cálculo de diferencias 
 * [Código Base: Polinomios de Lagrange](./Lagrange_Master.py)
 
 ### Ejercicios
-* [Ejercicio 1: Interpolación de Lagrange de Segundo Grado](./ejercicio1.py)
-* [Ejercicio 2: Comparación de precisión con el método de Newton](./ejercicio2.py)
-* [Ejercicio 3: Interpolación de funciones trigonométricas](./ejercicio3.py)
-* [Ejercicio 4: Aplicación en trayectoria de proyectiles](./ejercicio4.py)
-* [Ejercicio 5: Análisis de oscilación y Fenómeno de Runge](./ejercicio5.py)
+* [Ejercicio 1: Interpolación de Lagrange de Segundo Grado](./ejercicio1L.py)
+* [Ejercicio 2: Comparación de precisión con el método de Newton](./ejercicio2L.py)
+* [Ejercicio 3: Interpolación de funciones trigonométricas](./ejercicio3L.py)
+* [Ejercicio 4: Aplicación en trayectoria de proyectiles](./ejercicio4L.py)
+* [Ejercicio 5: Análisis de oscilación y Fenómeno de Runge](./ejercicio5L.py)
 
 ---
 "La interpolación es el arte de leer entre líneas los datos para descubrir la función oculta."
