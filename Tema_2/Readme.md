@@ -31,6 +31,21 @@ Es un algoritmo de búsqueda de raíces que divide repetidamente un intervalo a 
 * [Ejercicio 5: Función logarítmica](./1_Biseccion5.py)
 
 ---
+---
+
+## 📊 Galería de Resultados Visuales
+
+En esta sección se presentan las capturas de pantalla de la ejecución de cada algoritmo, permitiendo verificar la convergencia de los métodos y el cálculo de raíces.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Polinomio Cuadrático (Bisección)** | ![Resultado 1](./res_biseccion_1.png) |
+| **2. Función Cúbica (Bisección)** | ![Resultado 2](./res_biseccion_2.png) |
+| **3. Función Trascendental (Bisección)** | ![Resultado 3](./res_biseccion_3.png) |
+| **4. Función Exponencial (Bisección)** | ![Resultado 4](./res_biseccion_4.png) |
+| **5. Función Logarítmica (Bisección)** | ![Resultado 5](./res_biseccion_5.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
 
 ## 2. Método de Regla Falsa
 
