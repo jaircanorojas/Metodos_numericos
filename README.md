@@ -22,11 +22,18 @@ Cálculo aproximado de derivadas e integrales definidas utilizando discretizaci�
 * **Algoritmos:** Reglas del Trapecio (Simple y Compuesta), Simpson 1/3, Simpson 3/8 y Diferenciación.
 * 📂 [Explorar ejercicios del Tema 4](./Tema_4/)
 
-### 📈 Tema 5: Interpolación y Ajuste de Funciones**
+### 📈 Tema 5: Interpolación y Ajuste de Funciones
 
 Estudio de métodos para determinar valores intermedios entre puntos de datos definidos y ajustar curvas a conjuntos de datos.
 
 * **Algoritmos:** Interpolación de Newton, Polinomios de Lagrange y Trazadores (Splines).
 * 📂 [Explorar ejercicios del Tema 5](./Tema_5)
+
+### 🚀 Tema 6: Solución de Ecuaciones Diferenciales
+
+Estudio de algoritmos para resolver ecuaciones diferenciales ordinarias (EDO), esenciales para modelar sistemas dinámicos.
+
+* **Algoritmos:** Métodos de un paso (Euler, Runge-Kutta), Métodos de pasos múltiples y Sistemas de EDOs.
+* 📂 [Explorar ejercicios del Tema 6](./Tema_6)
 
 > "Los métodos numéricos son la herramienta que convierte la teoría matemática en soluciones del mundo real."
