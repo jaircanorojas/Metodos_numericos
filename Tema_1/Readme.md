@@ -32,3 +32,18 @@ A continuación se presentan los ejercicios desarrollados para este tema:
 * [Ejemplo 4: Error en Operaciones Aritméticas](./4_Error_Aritmetico.py)
 * [Ejemplo 5: Conversión de decimal a binario](./5_Decimal_Binario.py)
 
+---
+
+## 📊 Galería de Resultados Visuales
+
+En esta sección se presentan las capturas de pantalla de la ejecución de cada algoritmo, permitiendo verificar la precisión y el comportamiento de los errores calculados.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Error de Redondeo** | ![Resultado 1](./resultado_redondeo.png) |
+| **2. Error de Truncamiento** | ![Resultado 2](./resultado_truncamiento.png) |
+| **3. Precisión de Máquina** | ![Resultado 3](./resultado_precision.png) |
+| **4. Operaciones Aritméticas** | ![Resultado 4](./resultado_aritmetica.png) |
+| **5. Conversión Binaria** | ![Resultado 5](./resultado_binario.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
