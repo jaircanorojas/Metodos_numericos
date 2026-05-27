@@ -112,6 +112,20 @@ Transforma $f(x) = 0$ en $x = g(x)$. Se busca el punto donde la curva cruza la l
 
 ---
 
+## 📊 Galería de Resultados Visuales: Punto Fijo
+
+En esta sección se presentan las capturas de pantalla de la ejecución del método de Punto Fijo, donde se observa cómo la sucesión de valores $x_{i+1} = g(x_i)$ converge a la intersección con la recta $y = x$.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. g(x) de una raíz cuadrada** | ![Resultado PF 1](./res_punto_fijo_1.png) |
+| **2. g(x) de un coseno** | ![Resultado PF 2](./res_punto_fijo_2.png) |
+| **3. Análisis de convergencia** | ![Resultado PF 3](./res_punto_fijo_3.png) |
+| **4. g(x) exponencial** | ![Resultado PF 4](./res_punto_fijo_4.png) |
+| **5. g(x) fraccionaria** | ![Resultado PF 5](./res_punto_fijo_5.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ## 4. Newton-Raphson
 
 ### Concepto
