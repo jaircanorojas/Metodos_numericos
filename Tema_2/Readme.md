@@ -191,3 +191,18 @@ Es una variación de Newton-Raphson que no requiere calcular la derivada. En su 
 * [Ejercicio 4: Secante en funciones potentes](./5_Secante4.py)
 * [Ejercicio 5: Aproximación de raíz cúbica](./5_Secante5.py)
 
+---
+
+## 📊 Galería de Resultados Visuales: Método de la Secante
+
+En esta sección se presentan las capturas de pantalla de la ejecución del método de la Secante, mostrando cómo el uso de dos puntos iniciales permite aproximar la raíz sin necesidad de calcular derivadas.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Secante para x^2 - 4** | ![Resultado SEC 1](./res_secante_1.png) |
+| **2. Secante en logaritmos** | ![Resultado SEC 2](./res_secante_2.png) |
+| **3. Comparación con Newton** | ![Resultado SEC 3](./res_secante_3.png) |
+| **4. Secante en funciones potentes** | ![Resultado SEC 4](./res_secante_4.png) |
+| **5. Aproximación de raíz cúbica** | ![Resultado SEC 5](./res_secante_5.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
