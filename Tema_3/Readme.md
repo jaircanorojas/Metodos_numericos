@@ -136,3 +136,17 @@ Es una mejora del método de Jacobi. La diferencia fundamental radica en que Gau
 * [Ejercicio 3: Tolerancia estricta](./4_GaussSeidel3.py)
 * [Ejercicio 4: Gauss-Seidel vs Jacobi](./4_GaussSeidel4.py)
 * [Ejercicio 5: Sistema aplicado a presiones en tuberías](./4_GaussSeidel5.py)
+
+---
+
+## 📊 Galería de Resultados Visuales: Método de Gauss-Seidel
+
+En esta sección se presentan las capturas de pantalla de la ejecución del método de Gauss-Seidel. A diferencia de Jacobi, este método utiliza los valores más recientes de las variables de forma inmediata, lo que suele reducir drásticamente el número de iteraciones necesarias para converger.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Sistema 3x3 rápido** | ![Resultado Seidel 1](./res_seidel_1.png) |
+| **2. Impacto del orden de ecuaciones** | ![Resultado Seidel 2](./res_seidel_2.png) |
+| **3. Tolerancia estricta** | ![Resultado Seidel 3](./res_seidel_3.png) |
+| **4. Gauss-Seidel vs Jacobi** | ![Resultado Seidel 4](./res_seidel_4.png) |
+| **5. Sistema aplicado a presiones en tuberías** | ![Resultado Seidel 5](./res_seidel_5.png) |
