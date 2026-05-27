@@ -152,6 +152,20 @@ Utiliza la pendiente (tangente) de la función en un punto para proyectar la ubi
 
 ---
 
+## 📊 Galería de Resultados Visuales: Newton-Raphson
+
+En esta sección se presentan las capturas de pantalla del método de Newton-Raphson, destacando su convergencia cuadrática y el uso de las rectas tangentes para localizar la raíz.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Newton en polinomios** | ![Resultado NR 1](./res_newton_1.png) |
+| **2. Newton en raíces de grado n** | ![Resultado NR 2](./res_newton_2.png) |
+| **3. Convergencia rápida** | ![Resultado NR 3](./res_newton_3.png) |
+| **4. Newton con trigonométricas** | ![Resultado NR 4](./res_newton_4.png) |
+| **5. Newton con exponenciales** | ![Resultado NR 5](./res_newton_5.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ## 5. Método de la Secante
 
 ### Concepto
