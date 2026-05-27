@@ -102,6 +102,20 @@ Es un método iterativo donde se despeja cada incógnita $x_i$ de la diagonal de
 
 ---
 
+## 📊 Galería de Resultados Visuales: Método de Jacobi
+
+En esta sección se presentan las capturas de pantalla de la ejecución del método de Jacobi. Se puede observar el proceso iterativo y cómo la solución se aproxima al valor real siempre que la matriz sea diagonalmente dominante.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Convergencia en 3x3** | ![Resultado Jacobi 1](./res_jacobi_1.png) |
+| **2. Matriz diagonal dominante** | ![Resultado Jacobi 2](./res_jacobi_2.png) |
+| **3. Comparación de error** | ![Resultado Jacobi 3](./res_jacobi_3.png) |
+| **4. Sistema de 4 variables** | ![Resultado Jacobi 4](./res_jacobi_4.png) |
+| **5. Jacobi con vector inicial distinto de cero** | ![Resultado Jacobi 5](./res_jacobi_5.png) |
+
+> **Nota:** Para estos ejercicios, las capturas de pantalla resaltan la tabla de iteraciones, permitiendo observar la disminución del error en cada paso.
+
 ## 4. Método de Gauss-Seidel
 
 
