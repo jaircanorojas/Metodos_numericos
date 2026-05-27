@@ -64,6 +64,20 @@ Es una extensión de la eliminación gaussiana. El objetivo es transformar la ma
 
 ---
 
+## 📊 Galería de Resultados Visuales: Gauss-Jordan
+
+En esta sección se muestran las capturas de pantalla de la ejecución del método de Gauss-Jordan. A diferencia de la eliminación gaussiana simple, aquí se observa cómo la matriz se transforma completamente en una matriz identidad para obtener la solución directa.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Sistema 3x3** | ![Resultado Jordan 1](./res_jordan_1.png) |
+| **2. Cálculo de matriz inversa** | ![Resultado Jordan 2](./res_jordan_2.png) |
+| **3. Sistema sin solución (Análisis)** | ![Resultado Jordan 3](./res_jordan_3.png) |
+| **4. Sistema con infinitas soluciones** | ![Resultado Jordan 4](./res_jordan_4.png) |
+| **5. Aplicación en balanceo químico** | ![Resultado Jordan 5](./res_jordan_5.png) |
+
+> **Nota:** Las capturas de pantalla de los ejercicios 3 y 4 son especialmente importantes, ya que muestran cómo el algoritmo identifica sistemas singulares o dependientes.
+
 ## 3. Método de Jacobi
 
 
