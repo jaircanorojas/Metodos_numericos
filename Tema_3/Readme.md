@@ -27,6 +27,20 @@ Este método directo consiste en transformar la matriz aumentada del sistema en 
 
 ---
 
+## 📊 Galería de Resultados Visuales: Eliminación Gaussiana
+
+En esta sección se presentan las capturas de pantalla de la ejecución del método de Eliminación Gaussiana, mostrando el proceso de transformación a matriz triangular y la solución final por sustitución hacia atrás.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Sistema 3x3 estándar** | ![Resultado Gauss 1](./res_gauss_1.png) |
+| **2. Sistema con pivoteo parcial** | ![Resultado Gauss 2](./res_gauss_2.png) |
+| **3. Aplicación en circuitos** | ![Resultado Gauss 3](./res_gauss_3.png) |
+| **4. Matriz mal condicionada** | ![Resultado Gauss 4](./res_gauss_4.png) |
+| **5. Sistema 4x4** | ![Resultado Gauss 5](./res_gauss_5.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ## 2. Método de Gauss-Jordan
 
 
