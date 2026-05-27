@@ -158,3 +158,17 @@ $$\int_{a}^{b} f(x) dx \approx \frac{b-a}{2} \sum_{i=1}^{n} w_i f\left( \frac{b-
 * [4_Int_Gauss_1.py](./4_Int_Gauss_1.py): Implementación de Cuadratura Gaussiana de 2 puntos.
 * [4_Int_Gauss_2.py](./4_Int_Gauss_2.py): Integración de funciones trascendentales (e^x, log).
 * [4_Int_Gauss_3.py](./4_Int_Gauss_3.py): Aplicación en el cálculo del centro de masa de una placa.
+
+---
+
+## 📊 Galería de Resultados Visuales: Cuadratura Gaussiana
+
+En esta sección se presentan las capturas de pantalla de la ejecución de los algoritmos de Cuadratura Gaussiana. Este método se distingue por su alta eficiencia al integrar polinomios de grado $2n-1$ de forma exacta utilizando puntos y pesos óptimos derivados de los polinomios de Legendre.
+
+| Ejercicio | Descripción | Captura del Resultado |
+| :--- | :--- | :--- |
+| **1. Cuadratura de 2 Puntos** | Implementación base utilizando dos puntos de Gauss para funciones polinómicas. | ![Resultado Gauss 1](./res_int_gauss_1.png) |
+| **2. Funciones Trascendentales** | Integración de funciones complejas como exponenciales ($e^x$) y logaritmos. | ![Resultado Gauss 2](./res_int_gauss_2.png) |
+| **3. Centro de Masa** | Aplicación práctica: Cálculo del centro de masa de una placa mediante integración. | ![Resultado Gauss 3](./res_int_gauss_3.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
