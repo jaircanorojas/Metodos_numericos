@@ -29,6 +29,20 @@ $$f'(x_0) \approx \frac{f(x_0+h) - f(x_0-h)}{2h}$$
 * [4_Dif_3P_2.py](./4_Dif_3P_2.py): Estimación de velocidad instantánea a partir de datos de posición.
 * [4_Dif_3P_3.py](./4_Dif_3P_3.py): Estudio de la convergencia variando el tamaño de paso $h$.
 
+---
+
+## 📊 Galería de Resultados Visuales: Diferenciación de Tres Puntos
+
+En esta sección se presentan las capturas de pantalla de la ejecución de los algoritmos de diferenciación numérica. Se resalta el uso de la **Diferencia Central**, la cual proporciona una mayor precisión al cancelar los términos de error de primer orden.
+
+| Ejercicio | Descripción | Captura del Resultado |
+| :--- | :--- | :--- |
+| **1. Validación Trigonométrica** | Cálculo de $f'(x)$ para funciones seno y coseno, comparando con el valor analítico. | ![Resultado Dif 1](./res_dif_3p_1.png) |
+| **2. Velocidad Instantánea** | Aplicación práctica para determinar la velocidad a partir de datos discretos de posición. | ![Resultado Dif 2](./res_dif_3p_2.png) |
+| **3. Estudio de Convergencia** | Análisis de cómo el error disminuye cuadráticamente al reducir el tamaño del paso $h$. | ![Resultado Dif 3](./res_dif_3p_3.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ### 1.2 Regla de Diferencias de Cinco Puntos
 **Concepto:** Al incluir más información (cinco puntos en lugar de tres), se logran cancelar más términos de error de la Serie de Taylor, alcanzando una precisión de cuarto orden $O(h^4)$. Es ideal para cálculos científicos de alta precisión.
 
