@@ -29,10 +29,7 @@ Es un algoritmo de búsqueda de raíces que divide repetidamente un intervalo a 
 * [Ejercicio 3: Función trascendental](./1_Biseccion3.py)
 * [Ejercicio 4: Función exponencial](./1_Biseccion4.py)
 * [Ejercicio 5: Función logarítmica](./1_Biseccion5.py)
-
 ---
----
-
 ## 📊 Galería de Resultados Visuales
 
 En esta sección se presentan las capturas de pantalla de la ejecución de cada algoritmo, permitiendo verificar la convergencia de los métodos y el cálculo de raíces.
