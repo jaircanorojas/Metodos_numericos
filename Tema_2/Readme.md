@@ -71,6 +71,20 @@ A diferencia de la bisección, este método conecta los puntos $f(a)$ y $f(b)$ c
 
 ---
 
+## 📊 Galería de Resultados Visuales: Regla Falsa
+
+En esta sección se presentan las capturas de pantalla de la ejecución de los algoritmos de Regla Falsa, mostrando cómo la interpolación lineal acelera la búsqueda de la raíz.
+
+| Ejercicio | Captura del Resultado |
+| :--- | :--- |
+| **1. Raíz de x^2 - 2** | ![Resultado RF 1](./res_regla_falsa_1.png) |
+| **2. Polinomio de grado 3** | ![Resultado RF 2](./res_regla_falsa_2.png) |
+| **3. Función trigonométrica** | ![Resultado RF 3](./res_regla_falsa_3.png) |
+| **4. Función combinada** | ![Resultado RF 4](./res_regla_falsa_4.png) |
+| **5. Error porcentual en Regla Falsa** | ![Resultado RF 5](./res_regla_falsa_5.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ## 3. Punto Fijo
 
 ### Concepto
