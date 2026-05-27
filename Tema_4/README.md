@@ -128,6 +128,20 @@ $$\int_{a}^{b} f(x) dx \approx \frac{h}{3} \left[ f(x_0) + 4 \sum_{j=1,3,5}^{n-1
 * [4_Int_Simp_2.py](./4_Int_Simp_2.py): Cálculo de deflexión en vigas mediante integración.
 * [4_Int_Simp_3.py](./4_Int_Simp_3.py): Comparación de eficiencia entre Trapecio y Simpson.
 
+---
+
+## 📊 Galería de Resultados Visuales: Regla de Simpson (1/3)
+
+En esta sección se presentan las capturas de pantalla de la ejecución de la Regla de Simpson 1/3. A diferencia del método del trapecio, este algoritmo utiliza polinomios de segundo grado para aproximar el área, logrando una precisión superior en funciones polinómicas y trigonométricas.
+
+| Ejercicio | Descripción | Captura del Resultado |
+| :--- | :--- | :--- |
+| **1. Funciones Polinómicas** | Implementación base de Simpson 1/3 para funciones de grado superior. | ![Resultado Simpson 1](./res_int_simp_1.png) |
+| **2. Deflexión en Vigas** | Aplicación de ingeniería: Cálculo de la deflexión mediante integración numérica. | ![Resultado Simpson 2](./res_int_simp_2.png) |
+| **3. Eficiencia: Trapecio vs Simpson** | Comparativa de precisión y velocidad entre ambos métodos de integración. | ![Resultado Simpson 3](./res_int_simp_3.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ### 2.3 Método de la Cuadratura Gaussiana
 **Concepto:** Es el método más eficiente. No usa puntos equiespaciados, sino que selecciona puntos óptimos ($t_i$) y pesos ($w_i$) derivados de los polinomios de Legendre, permitiendo integrar polinomios de grado $2n-1$ de forma exacta.
 
