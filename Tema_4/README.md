@@ -97,6 +97,20 @@ $$\int_{a}^{b} f(x) dx \approx \frac{h}{2} \left[ f(a) + 2 \sum_{i=1}^{n-1} f(x_
 * [4_Int_Tr_2.py](./4_Int_Tr_2.py): Cálculo de energía acumulada a partir de potencia variable.
 * [4_Int_Tr_3.py](./4_Int_Tr_3.py): Evaluación del error en función del número de trapecios $n$.
 
+---
+
+## 📊 Galería de Resultados Visuales: Método del Trapecio (Compuesto)
+
+En esta sección se presentan las capturas de pantalla de la ejecución de los algoritmos de integración numérica por el método del Trapecio. Se observa cómo el área bajo la curva se aproxima mediante la suma de trapecios individuales, mejorando la precisión al aumentar el número de segmentos $n$.
+
+| Ejercicio | Descripción | Captura del Resultado |
+| :--- | :--- | :--- |
+| **1. Función Cuadrática** | Aproximación del área bajo una parábola usando múltiples segmentos. | ![Resultado Trapecio 1](./res_int_tr_1.png) |
+| **2. Energía Acumulada** | Aplicación práctica: Integración de una función de potencia variable en el tiempo. | ![Resultado Trapecio 2](./res_int_tr_2.png) |
+| **3. Evaluación del Error** | Estudio del comportamiento del error en función del número de trapecios utilizados. | ![Resultado Trapecio 3](./res_int_tr_3.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
 ### 2.2 Regla de Simpson (1/3)
 **Concepto:** En lugar de rectas, utiliza polinomios de segundo grado (parábolas) para ajustar los puntos. Es mucho más exacto que el Trapecio para funciones con curvatura.
 
