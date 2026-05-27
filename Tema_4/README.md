@@ -62,6 +62,20 @@ $$f'(x_0) \approx \frac{-f(x_0+2h) + 8f(x_0+h) - 8f(x_0-h) + f(x_0-2h)}{12h}$$
 
 ---
 
+## 📊 Galería de Resultados Visuales: Diferenciación de Cinco Puntos
+
+En esta sección se presentan las capturas de pantalla de la ejecución de los algoritmos de diferenciación de alto orden. Al incluir cinco puntos en el cálculo, se logra una mayor cancelación de los términos de error de la Serie de Taylor, obteniendo resultados de alta precisión científica.
+
+| Ejercicio | Descripción | Captura del Resultado |
+| :--- | :--- | :--- |
+| **1. Funciones Complejas** | Derivación de funciones exponenciales y logarítmicas con alta precisión. | ![Resultado Dif 5P 1](./res_dif_5p_1.png) |
+| **2. Cálculo de Aceleración** | Uso de diferencias finitas para determinar la segunda derivada (aceleración). | ![Resultado Dif 5P 2](./res_dif_5p_2.png) |
+| **3. Comparativa de Precisión** | Análisis del error relativo entre los esquemas de 3 puntos vs. 5 puntos. | ![Resultado Dif 5P 3](./res_dif_5p_3.png) |
+
+> **Nota:** Para replicar estos resultados, ejecute los archivos `.py` correspondientes en su terminal local.
+
+---
+
 ## 2. Métodos de Integración Numérica
 
 Buscan aproximar el valor de la integral definida $\int_{a}^{b} f(x) dx$, que representa el área neta bajo la curva.
